@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: rgba(189, 191, 192, 0);
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #bdbfc0;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Group_49" data-name="Group 49">
+      <g id="vuesax_twotone_export" data-name="vuesax twotone export">
+        <g id="export">
+          <path id="Vector" class="cls-2" d="M14.2,7.92c3,.26,4.22,1.8,4.22,5.18v.11c0,3.72-1.49,5.22-5.22,5.22h-5.42c-3.73,0-5.22-1.49-5.22-5.22v-.11c0-3.35,1.21-4.89,4.16-5.17"/>
+          <path id="Vector-2" class="cls-1" d="M.5,20.5V.5h20v20H.5Z"/>
+        </g>
+      </g>
+      <path id="Vector-3" class="cls-2" d="M13.29,5.29l-2.79-2.79-2.79,2.79"/>
+    </g>
+  </g>
+</svg>

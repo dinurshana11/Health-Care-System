@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #887cfd;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" width="16" height="16" rx="3" ry="3"/>
+      <path id="add" class="cls-2" d="M7.25,14v-5.25H2v-1.5h5.25V2h1.5v5.25h5.25v1.5h-5.25v5.25h-1.5Z"/>
+    </g>
+  </g>
+</svg>
